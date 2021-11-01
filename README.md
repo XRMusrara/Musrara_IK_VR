@@ -9,4 +9,4 @@ You can run this project on Oculus / Oculus 2
 
 The project is meant to get rid of Oculus Controlers, so use it with your hands only !
 
-If you would like to use Oculus controlers (Touches), no problem but there should be slight changes to the project which I could explain it to you
+If you would like to use Oculus controlers (Touches), only slight changes should be done 
